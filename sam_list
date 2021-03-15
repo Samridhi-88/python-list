@@ -1,0 +1,19 @@
+sum=0a=[22,27,9,0,10]
+i=0
+
+while i<len(a):
+    print(a[i])
+    sum=sum+a[i]
+    i=i+1
+print(sum)
+
+
+
+sum=0a=[22,27,9,0,10]
+i=0
+
+while i<len(a):
+    print(a[i])
+    sum=sum+a[i]
+    i=i+1
+print(sum)
